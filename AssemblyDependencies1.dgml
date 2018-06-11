@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@13 @27 Type=ContentAlignment)" Category="CodeSchema_Type" Bounds="82.9150819225722,246.996646046989,158.33,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="ContentAlignment" />
+    <Node Id="(@13 @27 Type=FontStyle)" Category="CodeSchema_Type" Bounds="48.6484152559055,190.996646046989,110.176666666667,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="FontStyle" />
+    <Node Id="(@13 @27 Type=GraphicsUnit)" Category="CodeSchema_Type" Bounds="188.825081922572,190.996646046989,128.906666666667,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="GraphicsUnit" />
+    <Node Id="(@13 @27 Type=Image)" Category="CodeSchema_Type" Bounds="158.381748589239,134.996646046989,93.98,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Image" />
+    <Node Id="@10" Category="CodeSchema_Assembly" Bounds="-290.760930012241,194.263364933672,140.942901706667,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(FxReferenceAssemblies)\.NETFramework\v4.5\System.Core.dll" Group="Collapsed" Label="System.Core.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@12" Category="CodeSchema_Assembly" Bounds="-204.999052989977,454.917034629339,259.865283653333,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Telerik.WinControls.Themes.Breeze, Version=2015.1.225.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ProgramFiles)\Telerik\UI for WinForms Q1 2015\Bin40\Telerik.WinControls.Themes.Breeze.dll" Group="Collapsed" Label="Telerik.WinControls.Themes.Breeze.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@14" Category="CodeSchema_Assembly" Bounds="28.0125532061618,111.576619576392,181.683333333333,86.9200000000001" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(FxReferenceAssemblies)\.NETFramework\v4.5\System.Drawing.dll" Group="Expanded" Label="System.Drawing.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_Assembly" Bounds="-342.150369614569,250.223464933693,192.332490586667,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Telerik.WinControls.UI, Version=2015.1.225.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ProgramFiles)\Telerik\UI for WinForms Q1 2015\Bin40\Telerik.WinControls.UI.dll" Group="Collapsed" Label="Telerik.WinControls.UI.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@18" Category="CodeSchema_Assembly" Bounds="-204.998126954753,510.877134629339,321.994786613333,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Telerik.WinControls.Themes.HighContrastBlack, Version=2015.1.225.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ProgramFiles)\Telerik\UI for WinForms Q1 2015\Bin40\Telerik.WinControls.Themes.HighContrastBlack.dll" Group="Collapsed" Label="Telerik.WinControls.Themes.HighContrastBlack.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@2" Category="CodeSchema_Assembly" AssemblyTimestamp="03/05/2016 12:54:30" Bounds="28.4998056770404,-155.803584410661,188.11,25.96" CodeSchemaProperty_StrongName="ShabaFashionersLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d4919267-5ffe-47cb-9f7b-690dfab60a22.OutputPath)" Group="Collapsed" Label="ShabaFashionersLite.exe">
+      <Category Ref="FileSystem.Category.FileOfType.exe" />
+    </Node>
+    <Node Id="@20" Category="CodeSchema_Assembly" Bounds="-263.251230003289,138.303264933672,113.433121786667,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(FxReferenceAssemblies)\.NETFramework\v4.5\System.dll" Group="Collapsed" Label="System.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@22" Category="CodeSchema_Assembly" Bounds="387.615148304117,146.397580700168,199.828641233333,86.9202" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Telerik.WinControls, Version=2015.1.225.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" FilePath="$(ProgramFiles)\Telerik\UI for WinForms Q1 2015\Bin40\Telerik.WinControls.dll" Group="Expanded" Label="Telerik.WinControls.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@24" Category="CodeSchema_Assembly" Bounds="-16.6070557899252,342.996834629339,199.895763413333,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(FxReferenceAssemblies)\.NETFramework\v4.5\System.Windows.Forms.dll" Group="Collapsed" Label="System.Windows.Forms.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@26" Category="CodeSchema_Assembly" Bounds="77.2591797789892,398.956934629339,258.855291733333,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Telerik.WinControls.Themes.Desert, Version=2015.1.225.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ProgramFiles)\Telerik\UI for WinForms Q1 2015\Bin40\Telerik.WinControls.Themes.Desert.dll" Group="Collapsed" Label="Telerik.WinControls.Themes.Desert.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@28" Category="CodeSchema_Namespace" Bounds="48.0125532061618,152.536619576392,141.683333333333,25.96" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="11" Group="Collapsed" Label="System‎.Drawing" UseManualLocation="True" />
+    <Node Id="@29" Category="CodeSchema_Namespace" Bounds="407.610255142243,187.357680700168,159.828641233333,25.96" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Telerik‎.WinControls" />
+    <Node Id="@30" Category="CodeSchema_Type" Bounds="-79.7015847440944,190.996646046989,98.35,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Bitmap" />
+    <Node Id="@31" Category="CodeSchema_Type" Bounds="38.7535952225926,134.970009201197,89.6767281066667,25.99991808" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Color" />
+    <Node Id="@32" Category="CodeSchema_Type" Bounds="32.2369686625926,79.0846972011965,84.86327296,25.99991808" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Font" />
+    <Node Id="@33" Category="CodeSchema_Type" Bounds="-79.7015847440944,134.996646046989,88.5133333333333,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Point" />
+    <Node Id="@34" Category="CodeSchema_Type" Bounds="-79.7015847440944,78.9966460469888,81.9833333333333,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="Size" />
+    <Node Id="@35" Category="CodeSchema_Type" Bounds="147.028415255906,78.9966460469888,87.8433333333334,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="SizeF" />
+    <Node Id="@36" Category="CodeSchema_Type" Bounds="-79.7015847440944,246.996646046989,132.616666666667,26" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" Group="Collapsed" Label="SystemColors" />
+    <Node Id="@4" Category="CodeSchema_Assembly" Bounds="88.9579717229075,-58.8835296506607,140.726236773333,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(FxReferenceAssemblies)\.NETFramework\v4.5\System.Data.dll" Group="Collapsed" Label="System.Data.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@6" Category="CodeSchema_Assembly" Bounds="-204.9996708054,398.956934629339,252.25867784,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="Telerik.WinControls.Themes.Aqua, Version=2015.1.225.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ProgramFiles)\Telerik\UI for WinForms Q1 2015\Bin40\Telerik.WinControls.Themes.Aqua.dll" Group="Collapsed" Label="Telerik.WinControls.Themes.Aqua.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@8" Category="CodeSchema_Assembly" Bounds="-61.5652520304017,-58.8835296506607,120.523065066667,25.96" CodeSchemaProperty_IsExternal="True" CodeSchemaProperty_StrongName="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(FxReferenceAssemblies)\.NETFramework\v4.5\mscorlib.dll" Group="Collapsed" Label="mscorlib.dll">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="_standardGraphExternalsGroup" Category="Externals" Bounds="-362.150369614569,-99.8435570306607,969.594159152018,656.68071904" Group="Expanded" Label="Externals" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="@14" Target="@28" Category="Contains" FetchingParent="@14" />
+    <Link Source="@2" Target="@10" Category="CodeSchema_Calls" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="3" />
+    <Link Source="@2" Target="@12" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@2" Target="@16" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="51">
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="InheritsFrom" />
+    </Link>
+    <Link Source="@2" Target="@18" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@2" Target="@20" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="53">
+      <Category Ref="CodeSchema_AttributeUse" />
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="InheritsFrom" />
+    </Link>
+    <Link Source="@2" Target="@24" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2197">
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="InheritsFrom" />
+    </Link>
+    <Link Source="@2" Target="@26" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@2" Target="@29" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="6">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@2" Target="@30" Category="CodeSchema_ReturnTypeLink" IsSourceVirtualized="True" Weight="2" />
+    <Link Source="@2" Target="@31" Category="CodeSchema_Calls" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="60" />
+    <Link Source="@2" Target="@32" Category="CodeSchema_Calls" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="32" />
+    <Link Source="@2" Target="@33" Category="CodeSchema_Calls" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="131" />
+    <Link Source="@2" Target="@34" Category="CodeSchema_Calls" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="143" />
+    <Link Source="@2" Target="@35" Category="CodeSchema_Calls" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="6" />
+    <Link Source="@2" Target="@36" Category="CodeSchema_Calls" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="30" />
+    <Link Source="@2" Target="@4" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="606">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@2" Target="@6" Category="References" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@2" Target="@8" Category="References" Bounds="22.3416490942482,-129.843628953018,83.6575072731891,65.4163055800307" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1344">
+      <Category Ref="CodeSchema_AttributeUse" />
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+      <Category Ref="InheritsFrom" />
+    </Link>
+    <Link Source="@22" Target="@29" Category="Contains" FetchingParent="@22" />
+    <Link Source="@28" Target="(@13 @27 Type=ContentAlignment)" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="(@13 @27 Type=FontStyle)" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="(@13 @27 Type=GraphicsUnit)" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="(@13 @27 Type=Image)" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="@30" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="@31" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="@32" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="@33" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="@34" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="@35" Category="Contains" FetchingParent="@28" />
+    <Link Source="@28" Target="@36" Category="Contains" FetchingParent="@28" />
+    <Link Source="_standardGraphExternalsGroup" Target="@10" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@12" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@14" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@16" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@18" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@20" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@22" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@24" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@26" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@4" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@6" Category="Contains" />
+    <Link Source="_standardGraphExternalsGroup" Target="@8" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="CodeSchema_AttributeUse" Label="Uses Attribute" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Used by" OutgoingActionLabel="Uses Attribute" />
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Namespace" Label="Namespace" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" NavigationActionLabel="Namespaces" />
+    <Category Id="CodeSchema_ReturnTypeLink" Label="Return" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Return types" OutgoingActionLabel="Return types" />
+    <Category Id="CodeSchema_Type" Label="Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Types" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="Externals" Label="Externals" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Externals" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+    <Category Id="FileSystem.Category.FileOfType.dll" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
+    <Category Id="FileSystem.Category.FileOfType.exe" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
+    <Category Id="InheritsFrom" Label="Inherits From" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Inherited By" OutgoingActionLabel="Inherits From" />
+    <Category Id="References" Label="References" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+  </Categories>
+  <Properties>
+    <Property Id="AssemblyTimestamp" DataType="System.DateTime" />
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsExternal" Label="Is External" Description="Flag indicating whether this node is considered external" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchedChildrenCount" DataType="System.Int32" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsSourceVirtualized" Label="Link Source Virtualized" Description="If true, the link source end contains data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="IsTargetVirtualized" Label="Link Target Virtualized" Description="If true, the link target end contains data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Weight" Label="Weight" Description="Weight" DataType="System.Double" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(d4919267-5ffe-47cb-9f7b-690dfab60a22.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/System.Data.dll" />
+    <Alias n="4" Id="(@3)" />
+    <Alias n="5" Uri="Assembly=$(ProgramFilesUri)/Telerik/UI for WinForms Q1 2015/Bin40/Telerik.WinControls.Themes.Aqua.dll" />
+    <Alias n="6" Id="(@5)" />
+    <Alias n="7" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/mscorlib.dll" />
+    <Alias n="8" Id="(@7)" />
+    <Alias n="9" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/System.Core.dll" />
+    <Alias n="10" Id="(@9)" />
+    <Alias n="11" Uri="Assembly=$(ProgramFilesUri)/Telerik/UI for WinForms Q1 2015/Bin40/Telerik.WinControls.Themes.Breeze.dll" />
+    <Alias n="12" Id="(@11)" />
+    <Alias n="13" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/System.Drawing.dll" />
+    <Alias n="14" Id="(@13)" />
+    <Alias n="15" Uri="Assembly=$(ProgramFilesUri)/Telerik/UI for WinForms Q1 2015/Bin40/Telerik.WinControls.UI.dll" />
+    <Alias n="16" Id="(@15)" />
+    <Alias n="17" Uri="Assembly=$(ProgramFilesUri)/Telerik/UI for WinForms Q1 2015/Bin40/Telerik.WinControls.Themes.HighContrastBlack.dll" />
+    <Alias n="18" Id="(@17)" />
+    <Alias n="19" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/System.dll" />
+    <Alias n="20" Id="(@19)" />
+    <Alias n="21" Uri="Assembly=$(ProgramFilesUri)/Telerik/UI for WinForms Q1 2015/Bin40/Telerik.WinControls.dll" />
+    <Alias n="22" Id="(@21)" />
+    <Alias n="23" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.5/System.Windows.Forms.dll" />
+    <Alias n="24" Id="(@23)" />
+    <Alias n="25" Uri="Assembly=$(ProgramFilesUri)/Telerik/UI for WinForms Q1 2015/Bin40/Telerik.WinControls.Themes.Desert.dll" />
+    <Alias n="26" Id="(@25)" />
+    <Alias n="27" Id="Namespace=System.Drawing" />
+    <Alias n="28" Id="(@13 @27)" />
+    <Alias n="29" Id="(@21 Namespace=Telerik.WinControls)" />
+    <Alias n="30" Id="(@13 @27 Type=Bitmap)" />
+    <Alias n="31" Id="(@13 @27 Type=Color)" />
+    <Alias n="32" Id="(@13 @27 Type=Font)" />
+    <Alias n="33" Id="(@13 @27 Type=Point)" />
+    <Alias n="34" Id="(@13 @27 Type=Size)" />
+    <Alias n="35" Id="(@13 @27 Type=SizeF)" />
+    <Alias n="36" Id="(@13 @27 Type=SystemColors)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="d4919267-5ffe-47cb-9f7b-690dfab60a22.OutputPath" Value="E:\PROGRAMMING STAFF\VISUAL STUDIO PROJECTS\WEB SERVICES\NEW WCF TEST\ShabaFashionersLite\ShabaFashionersLite\bin\Debug\ShabaFashionersLite.exe" />
+    <Path Id="d4919267-5ffe-47cb-9f7b-690dfab60a22.OutputPathUri" Value="file:///E:/PROGRAMMING STAFF/VISUAL STUDIO PROJECTS/WEB SERVICES/NEW WCF TEST/ShabaFashionersLite/ShabaFashionersLite/bin/Debug/ShabaFashionersLite.exe" />
+    <Path Id="FxReferenceAssemblies" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+    <Path Id="ProgramFiles" Value="C:\Program Files (x86)" />
+    <Path Id="ProgramFilesUri" Value="file:///C:/Program Files (x86)" />
+  </Paths>
+</DirectedGraph>

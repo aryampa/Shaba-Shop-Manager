@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="b2b4f940-2aeb-4691-b7dc-6cb86ea5efb0"
+  name="WinControls"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="b522663c-875e-4de2-89ad-bb2119c1efab"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DTelerik.WinControls"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="7d8a9b32-9b48-4ac2-9552-818b8d52f76c"
+        LastKnownName="UI"
+        LastKnownLocation="Package2_1809.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="666b8c3e-858a-45c4-8f23-0a87dd1adf69"
+        LastKnownName="Themes"
+        LastKnownLocation="Package3_1809.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="3629478f-bb3e-44fd-b797-ff9379867b3b"
+        name="RadThemeManager"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="78eb55b8-a758-484c-b679-046a46ab39f5"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FTelerik%2FUI for WinForms Q1 2015%2FBin40%2FTelerik.WinControls.dll&quot; Namespace%3DTelerik.WinControls Type%3DRadThemeManager"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="8cbbcf72-298d-490e-a5e9-3d5bce64b167"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="413e90b2-f829-42fb-922b-0c367576d28b">
+                <propertyInstance
+                  Id="eb1ad18d-7484-4c9e-ae81-e11d08b5e1d7"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="1b3cc8ca-2b56-4146-ab97-31dc557af473">
+                <propertyInstance
+                  Id="1bce3e91-33b1-4634-9f9b-0e6a3e8421da"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="37800171-8b47-441b-b7ea-e2f4e42bd3db">
+                <propertyInstance
+                  Id="bf9fecaa-a2ab-4fa0-9231-81f3a3b30e4f"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="1a332f40-c2d8-4052-9663-309d662a6132">
+                <propertyInstance
+                  Id="c43e9dad-f2f0-4437-8b1d-da432d068102"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e9599ba6-40f2-48d4-a436-3027a02dc599">
+                <propertyInstance
+                  Id="c7cac823-58d1-4318-915f-75142a544b3d"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

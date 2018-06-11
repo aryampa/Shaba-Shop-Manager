@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="12.5" version="12.5" Modules="architect" RootPath="." Language="en" Id="{CAB56A97-948C-486F-8025-1D55A7F44CEF}">
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Microsoft.CSharp.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite.exe" Value="..\ShabaFashionersLite\bin\Debug"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite.exe.config" Value="..\ShabaFashionersLite\bin\Debug"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite_1" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Core.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Data.DataSetExtensions.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Data.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Deployment.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Drawing.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Windows.Forms.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Xml.Linq.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Xml.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.GridView.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.Aqua.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.Breeze.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.Desert.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.HighContrastBlack.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.UI.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_TelerikCommon.dll" Value="C:\Program Files (x86)\Telerik\UI for WinForms Q1 2015\Bin40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_mscorlib.dll" Value="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Microsoft.CSharp.dll" Value="Microsoft.CSharp.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite" Value="System.Runtime.Serialization.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite.exe" Value="ShabaFashionersLite.exe"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite.exe.config" Value="ShabaFashionersLite.exe.config"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite_1" Value="System.ServiceModel.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Core.dll" Value="System.Core.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Data.DataSetExtensions.dll" Value="System.Data.DataSetExtensions.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Data.dll" Value="System.Data.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Deployment.dll" Value="System.Deployment.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Drawing.dll" Value="System.Drawing.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Windows.Forms.dll" Value="System.Windows.Forms.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Xml.Linq.dll" Value="System.Xml.Linq.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Xml.dll" Value="System.Xml.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.dll" Value="System.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.GridView.dll" Value="Telerik.WinControls.GridView.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Aqua.dll" Value="Telerik.WinControls.Themes.Aqua.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Breeze.dll" Value="Telerik.WinControls.Themes.Breeze.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Desert.dll" Value="Telerik.WinControls.Themes.Desert.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.HighContrastBlack.dll" Value="Telerik.WinControls.Themes.HighContrastBlack.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.UI.dll" Value="Telerik.WinControls.UI.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.dll" Value="Telerik.WinControls.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_TelerikCommon.dll" Value="TelerikCommon.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_mscorlib.dll" Value="mscorlib.dll"/>
+    <ROW Property="ALLUSERS" Value="1"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="ARPPRODUCTICON" Value="Icon.exe" Type="8"/>
+    <ROW Property="ARPURLINFOABOUT" Value="Arysoft-ug.com/Products/"/>
+    <ROW Property="Manufacturer" Value="Arysoft Conpany Limited"/>
+    <ROW Property="ProductCode" Value="1033:{38F80776-77C7-41D8-96EB-A52C9308E9C1} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="Shaba Fashioners"/>
+    <ROW Property="ProductVersion" Value="1.0.0" Type="32"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{CC3D1ECF-9DB8-45FC-ABE4-81F37020971A}"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40Display" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="ShabaFashionersLite_Dir" Directory_Parent="APPDIR" DefaultDir="SHABAF~1|ShabaFashionersLite"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="ProductInformation" ComponentId="{340CC4FB-B9BB-4CAA-8504-D90D19836CCB}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
+    <ROW Component="ShabaFashionersLite_PrimaryOutput" ComponentId="{59D820AA-832F-45BD-A715-8469D456E20E}" Directory_="ShabaFashionersLite_Dir" Attributes="0" KeyPath="ShabaFashionersLite.exe"/>
+    <ROW Component="ShabaFashionersLite_References" ComponentId="{62775190-E21E-4D50-B960-8EE75EE857AC}" Directory_="ShabaFashionersLite_Dir" Attributes="0" KeyPath="mscorlib.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0" Components="ProductInformation ShabaFashionersLite_PrimaryOutput ShabaFashionersLite_References"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="Microsoft.CSharp.dll" Component_="ShabaFashionersLite_References" FileName="MICROS~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.CSharp.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Microsoft.CSharp.dll&gt;" SelfReg="false" NextFile="System.Data.dll"/>
+    <ROW File="ShabaFashionersLite" Component_="ShabaFashionersLite_References" FileName="SYSTEM~1.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_ShabaFashionersLite&gt;" SelfReg="false" NextFile="ShabaFashionersLite_1"/>
+    <ROW File="ShabaFashionersLite.exe" Component_="ShabaFashionersLite_PrimaryOutput" FileName="SHABAF~2.EXE|[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite.exe]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_ShabaFashionersLite.exe&gt;" SelfReg="false" NextFile="ShabaFashionersLite.exe.config" DigSign="true"/>
+    <ROW File="ShabaFashionersLite.exe.config" Component_="ShabaFashionersLite_PrimaryOutput" FileName="SHABAF~2.CON|[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite.exe.config]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_ShabaFashionersLite.exe.config&gt;" SelfReg="false" NextFile="System.dll"/>
+    <ROW File="ShabaFashionersLite_1" Component_="ShabaFashionersLite_References" FileName="SYSTE~10.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite_1]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_ShabaFashionersLite_1&gt;" SelfReg="false"/>
+    <ROW File="System.Core.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Core.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Core.dll&gt;" SelfReg="false" NextFile="System.Xml.Linq.dll"/>
+    <ROW File="System.Data.DataSetExtensions.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~4.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Data.DataSetExtensions.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Data.DataSetExtensions.dll&gt;" SelfReg="false" NextFile="Microsoft.CSharp.dll"/>
+    <ROW File="System.Data.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~5.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Data.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Data.dll&gt;" SelfReg="false" NextFile="System.Deployment.dll"/>
+    <ROW File="System.Deployment.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~6.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Deployment.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Deployment.dll&gt;" SelfReg="false" NextFile="System.Drawing.dll"/>
+    <ROW File="System.Drawing.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~7.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Drawing.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Drawing.dll&gt;" SelfReg="false" NextFile="System.Windows.Forms.dll"/>
+    <ROW File="System.Windows.Forms.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~8.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Windows.Forms.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Windows.Forms.dll&gt;" SelfReg="false" NextFile="System.Xml.dll"/>
+    <ROW File="System.Xml.Linq.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Xml.Linq.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Xml.Linq.dll&gt;" SelfReg="false" NextFile="System.Data.DataSetExtensions.dll"/>
+    <ROW File="System.Xml.dll" Component_="ShabaFashionersLite_References" FileName="SYSTEM~9.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Xml.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Xml.dll&gt;" SelfReg="false" NextFile="Telerik.WinControls.dll"/>
+    <ROW File="System.dll" Component_="ShabaFashionersLite_References" FileName="[|AI_PROPPATH_FILENAME_PERBUILD_System.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.dll&gt;" SelfReg="false" NextFile="System.Core.dll"/>
+    <ROW File="Telerik.WinControls.GridView.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.GridView.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Telerik.WinControls.GridView.dll&gt;" SelfReg="false" NextFile="Telerik.WinControls.Themes.Aqua.dll"/>
+    <ROW File="Telerik.WinControls.Themes.Aqua.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~4.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Aqua.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.Aqua.dll&gt;" SelfReg="false" NextFile="Telerik.WinControls.Themes.Breeze.dll"/>
+    <ROW File="Telerik.WinControls.Themes.Breeze.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~5.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Breeze.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.Breeze.dll&gt;" SelfReg="false" NextFile="Telerik.WinControls.Themes.Desert.dll"/>
+    <ROW File="Telerik.WinControls.Themes.Desert.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~6.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Desert.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.Desert.dll&gt;" SelfReg="false" NextFile="Telerik.WinControls.Themes.HighContrastBlack.dll"/>
+    <ROW File="Telerik.WinControls.Themes.HighContrastBlack.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~7.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.HighContrastBlack.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.HighContrastBlack.dll&gt;" SelfReg="false" NextFile="Telerik.WinControls.UI.dll"/>
+    <ROW File="Telerik.WinControls.UI.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~8.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.UI.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Telerik.WinControls.UI.dll&gt;" SelfReg="false" NextFile="TelerikCommon.dll"/>
+    <ROW File="Telerik.WinControls.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Telerik.WinControls.dll&gt;" SelfReg="false" NextFile="Telerik.WinControls.GridView.dll"/>
+    <ROW File="TelerikCommon.dll" Component_="ShabaFashionersLite_References" FileName="TELERI~9.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_TelerikCommon.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_TelerikCommon.dll&gt;" SelfReg="false" NextFile="mscorlib.dll"/>
+    <ROW File="mscorlib.dll" Component_="ShabaFashionersLite_References" FileName="[|AI_PROPPATH_FILENAME_PERBUILD_mscorlib.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_mscorlib.dll&gt;" SelfReg="false" NextFile="ShabaFashionersLite"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.AppPathsComponent">
+    <ROW Name="AI_APPPATH_PERBUILD_Microsoft.CSharp.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Microsoft.CSharp.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.CSharp.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_ShabaFashionersLite" Path="[|AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite]\[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_ShabaFashionersLite.exe" Path="[|AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite.exe]\[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite.exe]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_ShabaFashionersLite.exe.config" Path="[|AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite.exe.config]\[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite.exe.config]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_ShabaFashionersLite_1" Path="[|AI_PROPPATH_DIR_PERBUILD_ShabaFashionersLite_1]\[|AI_PROPPATH_FILENAME_PERBUILD_ShabaFashionersLite_1]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Core.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Core.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Core.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Data.DataSetExtensions.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Data.DataSetExtensions.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Data.DataSetExtensions.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Data.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Data.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Data.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Deployment.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Deployment.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Deployment.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Drawing.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Drawing.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Drawing.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Windows.Forms.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Windows.Forms.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Windows.Forms.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Xml.Linq.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Xml.Linq.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Xml.Linq.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Xml.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Xml.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Xml.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Telerik.WinControls.GridView.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.GridView.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.GridView.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.Aqua.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.Aqua.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Aqua.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.Breeze.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.Breeze.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Breeze.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.Desert.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.Desert.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.Desert.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Telerik.WinControls.Themes.HighContrastBlack.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.Themes.HighContrastBlack.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.Themes.HighContrastBlack.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Telerik.WinControls.UI.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.UI.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.UI.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Telerik.WinControls.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Telerik.WinControls.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Telerik.WinControls.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_TelerikCommon.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_TelerikCommon.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_TelerikCommon.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_mscorlib.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_mscorlib.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_mscorlib.dll]" Type="2" Content="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" Languages="en" InstallationType="4" UseLargeSchema="true"/>
+    <ATTRIBUTE name="CurrentBuild" value="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="MaintenanceTypeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceTypeDlg.aip"/>
+    <ROW Fragment="MaintenanceWelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceWelcomeDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+    <ROW Fragment="VerifyRemoveDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRemoveDlg.aip"/>
+    <ROW Fragment="VerifyRepairDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRepairDlg.aip"/>
+    <ROW Fragment="WelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\WelcomeDlg.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="101"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="501"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RemoveButton" Event="NewDialog" Argument="VerifyRemoveDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RepairButton" Event="NewDialog" Argument="VerifyRepairDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="1"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Repair" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="399" Options="1"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Remove" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="299" Options="1"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_DpiContentScale" Type="1" Source="aicustact.dll" Target="DpiContentScale"/>
+    <ROW Action="AI_InstallModeCheck" Type="1" Source="aicustact.dll" Target="UpdateInstallMode" WithoutSeq="true"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_RESTORE_LOCATION" Type="65" Source="aicustact.dll" Target="RestoreLocation"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_SHOW_LOG" Type="65" Source="aicustact.dll" Target="LaunchLogFile" WithoutSeq="true"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
+    <ROW Name="Icon.exe" SourcePath="..\ShabaFashionersLite\IMAGES\Icon.png" Index="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="(Not Installed) OR REINSTALL" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="52"/>
+    <ROW Action="AI_DpiContentScale" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="(VersionNT &lt;&gt; 400)" Description="[ProductName] cannot be installed on the following Windows versions: [WindowsTypeNT40Display]." DescriptionLocId="AI.LaunchCondition.NoNT40" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="VersionNT" Description="[ProductName] cannot be installed on [WindowsType9XDisplay]." DescriptionLocId="AI.LaunchCondition.No9X" IsPredefined="true" Builds="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiRegsComponent">
+    <ROW Registry="Path" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Path" Value="[APPDIR]" Component_="ProductInformation"/>
+    <ROW Registry="Version" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Version" Value="[ProductVersion]" Component_="ProductInformation"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.VsProjectComponent">
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="PrimaryOutput" OutputFile="ShabaFashionersLite.exe"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="PrimaryOutput" OutputFile="ShabaFashionersLite.exe.config"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Core.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Xml.Linq.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Data.DataSetExtensions.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Microsoft.CSharp.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Data.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Deployment.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Drawing.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Windows.Forms.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="System.Xml.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Telerik.WinControls.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Telerik.WinControls.GridView.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Telerik.WinControls.Themes.Aqua.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Telerik.WinControls.Themes.Breeze.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Telerik.WinControls.Themes.Desert.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Telerik.WinControls.Themes.HighContrastBlack.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="Telerik.WinControls.UI.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="TelerikCommon.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="mscorlib.dll"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="ShabaFashionersLite"/>
+    <ROW Solution="ShabaFashionersLite.sln" ProjectId="{d4919267-5ffe-47cb-9f7b-690dfab60a22}" ProjectName="ShabaFashionersLite" OutputGroup="References" OutputFile="ShabaFashionersLite_1"/>
+  </COMPONENT>
+</DOCUMENT>

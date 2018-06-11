@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="666b8c3e-858a-45c4-8f23-0a87dd1adf69"
+  name="Themes"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="0e2acd58-b4f9-4659-85d4-0107a9930559"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DTelerik.WinControls.Themes"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="89bce25e-20b7-4c84-8763-0ab1d5a5f4a5"
+        name="AquaTheme"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="4ec1015c-6f69-42be-ad6a-a04c1562e874"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FTelerik%2FUI for WinForms Q1 2015%2FBin40%2FTelerik.WinControls.Themes.Aqua.dll&quot; Namespace%3DTelerik.WinControls.Themes Type%3DAquaTheme"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="9e3412f6-029a-4f35-8ecb-5f339a5b095d"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e168e1a0-ec4d-47d5-ab2d-e9745d93e389">
+                <propertyInstance
+                  Id="e8adbec5-fd69-47f0-bd34-24de328e099f"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="b74d8bfa-269d-4655-8c16-334f06bd3810">
+                <propertyInstance
+                  Id="479e5448-5c9a-423a-ad26-084401ff0a24"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e684b241-6153-45eb-8340-7c0b2fb076a3">
+                <propertyInstance
+                  Id="f5f3cac2-0e15-43cb-bd65-855c378fe752"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="7104d056-cf8e-4873-af29-69c7d093adce">
+                <propertyInstance
+                  Id="faf75ab2-9cc2-4789-8236-2074add7ad8b"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="43efd0f8-8b06-46a6-96a1-d0b3e976245b">
+                <propertyInstance
+                  Id="5cdfa10b-b6f0-490f-824a-232fa908384c"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="67712a67-069b-4406-a9b7-3773de9600c3"
+        name="BreezeTheme"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="f85910e2-3845-443f-99d6-eaec22832edd"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FTelerik%2FUI for WinForms Q1 2015%2FBin40%2FTelerik.WinControls.Themes.Breeze.dll&quot; Namespace%3DTelerik.WinControls.Themes Type%3DBreezeTheme"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="3f66190f-d885-436d-b20b-52b148eb7eb0"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="bcb5cfa0-ce80-48d5-91bc-96062ae70c7c">
+                <propertyInstance
+                  Id="5866bdce-15d3-4e96-9cac-b8386293259a"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="85a0df8b-4738-472a-8002-c289d2dc3002">
+                <propertyInstance
+                  Id="f2e2dd44-edda-4b4c-8b93-948f6dd7f468"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e28f8832-5838-4e8c-bf20-9affcfcb6766">
+                <propertyInstance
+                  Id="cb08981a-0f3e-4894-b823-c8e5a09de49f"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="008d7c81-17d1-4d1c-89ba-d4760b1abe24">
+                <propertyInstance
+                  Id="984aaa35-3d06-4260-b16f-e24cccf797ee"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="07a69dab-1edb-4063-b63f-e59b6a34b9e9">
+                <propertyInstance
+                  Id="9c47a758-6360-4785-ba38-481f54b14446"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="9ad26ca8-cec7-42b5-bc01-9afad798cf15"
+        name="DesertTheme"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="99833726-ff37-4de2-9a08-e5a97b30ea69"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FTelerik%2FUI for WinForms Q1 2015%2FBin40%2FTelerik.WinControls.Themes.Desert.dll&quot; Namespace%3DTelerik.WinControls.Themes Type%3DDesertTheme"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="16add31f-5d57-4f28-9b67-3defbdf81632"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="ab12724c-8294-4e48-adbe-16f57f2fc42b">
+                <propertyInstance
+                  Id="826d9d71-97a5-4646-9c58-16956902fcb9"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="8b0090e2-bfb1-48c3-bda1-8fc5ce0de835">
+                <propertyInstance
+                  Id="52e1ddcf-b766-42f7-bf6c-ae16c61caa21"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="71e9c6bd-7140-4c64-ba57-43497047a3d2">
+                <propertyInstance
+                  Id="41b1c05e-094a-4792-95a8-8bef467ae867"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f9952ae6-9dbc-420b-86ca-aeb9b3a8642c">
+                <propertyInstance
+                  Id="2e61058b-46fd-4ff1-88fd-bf075740a926"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="36f3c9bd-7d34-4714-99ef-92ef93dd262e">
+                <propertyInstance
+                  Id="4275e794-5b18-4517-881c-f94f895fdbe7"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="6e660df2-a2bf-4354-bfc8-a372fc8cde9b"
+        name="HighContrastBlackTheme"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="e4847555-844a-42af-9d94-e022308951a2"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FTelerik%2FUI for WinForms Q1 2015%2FBin40%2FTelerik.WinControls.Themes.HighContrastBlack.dll&quot; Namespace%3DTelerik.WinControls.Themes Type%3DHighContrastBlackTheme"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="0a02a618-4dcd-45e3-a338-1ef4ab4704e8"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="2b134b79-73ce-48f3-8825-a76faf26b27c">
+                <propertyInstance
+                  Id="e13145e9-79e8-4aed-a9bd-21e2fb0012c6"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="1627c8d5-fdf3-4e17-bf5c-bf1edf320696">
+                <propertyInstance
+                  Id="6b2bc003-1984-417b-9861-66503b8a196f"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3e79dd8c-0afe-4d68-bccf-d84c994a4784">
+                <propertyInstance
+                  Id="e90f274b-b37f-4233-9ea8-c9b3e9548b88"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="d6e43af8-eb27-427b-8af8-a77b66a8e5ea">
+                <propertyInstance
+                  Id="e9ed0b6d-9b26-4e70-882b-55d95932a983"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a500301e-0aad-4c56-a3ec-20b830683a0a">
+                <propertyInstance
+                  Id="b4db9f68-5200-4eaa-bcce-cddd7b7869e2"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

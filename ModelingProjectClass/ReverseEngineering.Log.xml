@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-03-05T18:16:47" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '1a76033a-19d1-4651-86eb-8b5641a7396f' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '9c6b9650-ace7-458f-9140-937c09844264' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite' -  (Package)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataObjectsInitializer' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager' -  (Class)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::CreateRow' -  (Operation)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::CreateRow::Col_Value_Map' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::CreateRow::PrimaryKey' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::DataTableManager' -  (Operation)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::DataTableManager::BackupSessionID' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::DataTableManager::datasetObject' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::DataTableManager::TableName' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::DataTableManager::transacttionObj' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::dbObject' -  (Property)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::dbSessionObject' -  (Property)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::Delete' -  (Operation)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::Delete::RowID' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::EditRow' -  (Operation)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::EditRow::Col_Value_Map' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::EditRow::PrimaryKey' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::Search' -  (Operation)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::Search::Column_Name' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::Search::isPrimaryKey' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::Search::Query' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::Search::ReturnEntireRow' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::TableNam' -  (Property)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::updateSessionTable' -  (Operation)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::updateSessionTable::Action' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::updateSessionTable::RowItemID' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::updateSessionTable::SessionID' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::updateSessionTable::TableName' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::ShabaFashionersLite::DataTableManager::updateSessionTable::TransactionDate' -  (Parameter)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System' -  (Package)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Collections' -  (Package)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Collections::Generic::Dictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Collections::Generic::Dictionary&lt;String‎, Object‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Data' -  (Package)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Data::DataSet' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Data::OleDb' -  (Package)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Data::OleDb::OleDbTransaction' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectClass::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="High" Text="(6) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2016-03-05T18:16:48" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>
